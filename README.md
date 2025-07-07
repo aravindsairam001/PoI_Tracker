@@ -130,8 +130,8 @@ recordings/
 ---
 
 ## 🙌 Acknowledgments
-- [Ultralytics YOLOv5]([url](https://github.com/ultralytics/yolov5.git))
-- [DeepSORT Realtime]([url](https://github.com/mikel-brostrom/boxmot.git))
-- [OpenCV]([url](https://opencv.org))
+- [Ultralytics YOLOv5](https://github.com/ultralytics/yolov5.git)
+- [DeepSORT Realtime](https://github.com/mikel-brostrom/boxmot.git)
+- [OpenCV](https://opencv.org)
 
 ---
