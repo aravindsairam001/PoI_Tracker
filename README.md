@@ -24,8 +24,11 @@ This project is an end-to-end pipeline that:
 
 ## 👾 User Interface
 
-<img width="256" alt="Screenshot 2025-07-07 at 10 36 18 AM" src="https://github.com/user-attachments/assets/6caac113-65e9-4163-af7b-67baf1db6630" />
 <img width="675" alt="Screenshot 2025-07-07 at 10 35 58 AM" src="https://github.com/user-attachments/assets/be188b94-b9c9-46f3-83c1-7e86e42dd2f9" />
+
+
+<img width="256" alt="Screenshot 2025-07-07 at 10 36 18 AM" src="https://github.com/user-attachments/assets/6caac113-65e9-4163-af7b-67baf1db6630" />
+
 
 ---
 
